@@ -1,0 +1,25 @@
+id: '17095250550810.09660205901793795'
+name: signup
+url: signup
+roleIds: []
+disableInMenu: false
+parentPageId: ''
+slots:
+  - id: '17095250550810.8034745446505014'
+    name: content
+    children:
+      - id: '17095250550810.3344375654368479'
+        definitionId: grid
+        parentSlotId: '17095250550810.8034745446505014'
+        styles: {}
+        properties:
+          name: signup
+          pageTitle: '{{app.name}} - {{activeRoute.name}}'
+          __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+            - xl
+            - xs
+        index: 0
+        slots:
+          - id: '17095250550820.8211524204518954'
+            name: content
+            children: []

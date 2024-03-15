@@ -1,0 +1,37 @@
+id: '17095201312740.02195782121262746'
+definitionId: text
+parentSlotId: '2'
+styles:
+  xl:
+    gridItem:
+      x: 9
+      y: 61
+      w: 6
+      h: 6
+    fontSize:
+      customValue: 28
+      customUnit: px
+      themeDefaultOverridePropertyKey: baseTextFontSize
+  xs:
+    gridItem:
+      x: 1
+      y: 68
+      w: 22
+      h: 6
+properties:
+  name: text
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+  overflowType:
+    value: none
+    dataValue: none
+    withData: false
+  alignment: center
+  value: Welcome back
+  verticalAlignment: middle
+  textStyle:
+    transform: none
+    styles:
+      - bold
+actions: {}
+slots: []

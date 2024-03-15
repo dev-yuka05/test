@@ -1,0 +1,28 @@
+id: '17095203248100.14796737642854274'
+definitionId: divider
+parentSlotId: '2'
+styles:
+  xl:
+    gridItem:
+      x: 9
+      y: 116
+      w: 6
+      h: 6
+    dividerWidth:
+      customValue: 2
+      customUnit: px
+  xs:
+    gridItem:
+      x: 1
+      y: 127
+      w: 22
+      h: 5
+properties:
+  name: divider
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  dividerMarkdownSupport: false
+  dividerText: OR
+actions: {}
+slots: []

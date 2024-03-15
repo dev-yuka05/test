@@ -1,0 +1,41 @@
+id: '17095204420470.2620786302915512'
+definitionId: button
+parentSlotId: '2'
+styles:
+  xl:
+    gridItem:
+      x: 9
+      y: 122
+      w: 6
+      h: 11
+    iconPlacement: left
+  xs:
+    gridItem:
+      x: 1
+      y: 132
+      w: 22
+      h: 9
+properties:
+  name: button2
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  text: Sign in with Google
+  status:
+    value: primary
+    dataValue: '#000'
+    withData: true
+  icon:
+    value: google
+    dataValue: star-outline
+    withData: false
+  linkInfo:
+    active: externalPath
+    internalPath: ''
+    externalPath: ''
+  appearance:
+    value: outline
+    dataValue: filled
+    withData: false
+actions: {}
+slots: []

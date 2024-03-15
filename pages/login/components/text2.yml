@@ -1,0 +1,25 @@
+id: '17095202818400.057500262635828525'
+definitionId: text
+parentSlotId: '2'
+styles:
+  xl:
+    gridItem:
+      x: 9
+      y: 67
+      w: 6
+      h: 6
+  xs:
+    gridItem:
+      x: 1
+      y: 74
+      w: 21
+      h: 6
+properties:
+  name: text2
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  value: Enter the email and password for your account
+  alignment: center
+actions: {}
+slots: []

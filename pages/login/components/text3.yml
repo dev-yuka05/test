@@ -1,0 +1,34 @@
+id: '17098581335320.22075973394357695'
+definitionId: text
+parentSlotId: '2'
+styles:
+  xl:
+    gridItem:
+      x: 10
+      y: 46
+      w: 4
+      h: 6
+    fontSize:
+      customValue: 42
+      customUnit: px
+      themeDefaultOverridePropertyKey: baseTextFontSize
+  xs:
+    gridItem:
+      x: 1
+      y: 59
+      w: 22
+      h: 6
+properties:
+  name: text3
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  value: SLEXN
+  alignment: center
+  textStyle:
+    transform: none
+    styles:
+      - bold
+  verticalAlignment: middle
+actions: {}
+slots: []

@@ -1,0 +1,27 @@
+id: '17095202313510.11230397662493719'
+definitionId: stringEdit
+parentSlotId: '2'
+styles:
+  xl:
+    gridItem:
+      x: 9
+      y: 87
+      w: 6
+      h: 14
+  xs:
+    gridItem:
+      x: 1
+      y: 100
+      w: 22
+      h: 14
+properties:
+  name: input2
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  labelConfig:
+    text: Password
+    position: vertical
+    align: left
+actions: {}
+slots: []
